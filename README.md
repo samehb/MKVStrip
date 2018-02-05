@@ -35,4 +35,4 @@ Read file [LICENSE](LICENSE)
 
 [Blog](http://sres.tumblr.com)
 
-[Discussion]()
+[Discussion](http://sres.tumblr.com/post/170525332028/mkvstrip-keep-the-audiosubtitles-tracks-you)
