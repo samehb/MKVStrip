@@ -13,7 +13,7 @@ MKVStrip allows you to get rid of audio/subtitles tracks that you do not need wi
 6. Supports iterating over subfolders.
 
 ## Installation
-1. Start by downloading the program from [here]() and extract it to any folder of choice.
+1. Start by downloading the program from [here](https://github.com/samehb/MKVStrip/releases/download/1.0/MKVStrip.zip) and extract it to any folder of choice.
 2. Download mkvtoolnix portable from [here](https://mkvtoolnix.download/downloads.html#windows).
 3. Extract the mkvtoolnix file and copy mkvmerge.exe into the folder from Step 1.
 
